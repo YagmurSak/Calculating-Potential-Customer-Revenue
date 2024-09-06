@@ -3,7 +3,11 @@ Based on these segments, the company aims to estimate how much revenue potential
 Variables of Dataset:
 
 PRICE :  The amount spent by the customer
+
 SOURCE: The type of device the customer is using
+
 SEX: The gender of the customer
+
 COUNTRY : The country of the customer
+
 AGE : The age of the customer
